@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amanda-pinheiro
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development, data science and AI
 - 🌱 I’m currently learning Automatic Tests
 - 📫 How to reach me amandadejesuspinheiro@outlook.com
 - 😄 Pronouns: she/her
