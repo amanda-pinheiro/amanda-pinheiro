@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanda-pinheiro
 - 👀 I’m interested in software development, data science and AI
-- 🌱 I’m currently learning Microsoft Power BI and Systems Development
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: amandadejesuspinheiro@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm Brazilian, but I play Irish Music and love trad irish music sessions ☘️
