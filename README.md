@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amanda-pinheiro
 - 👀 I’m interested in software development, data science and AI
 - 🌱 I’m currently about AI Assitants
-- 📫 How to reach me: amandadejpinheiro2@gmail.com
+- 📫 How to reach me: amandajpinheiro2@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm Brazilian, but I play Irish Music and love trad irish music sessions ☘️
 
