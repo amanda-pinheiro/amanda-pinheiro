@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @amanda-pinheiro
-- 👀 I’m interested in software quality assurance
-- 🌱 I'm currently learning about AI Assistants, MCP and QA Engineering — pursuing CTFL certification and a postgraduate specialization in Software Quality Engineering at PUC Minas
+- 👋 Hi, I'm @amanda-pinheiro
+- 🔍 QA Analyst with experience in manual and automated testing (Cypress, Playwright, Selenium, Robot Framework)
+- 🎓 Currently pursuing a postgraduate specialization in Software Quality Engineering at PUC Minas, and preparing for the CTFL (ISTQB) certification
+- 🌱 Also exploring AI Assistants, MCP and how AI can support QA workflows
 - 📫 How to reach me: amandajpinheiro2@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm Brazilian, but I play Irish Music and love trad irish music sessions ☘️
-
-<!---
-amanda-pinheiro/amanda-pinheiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I'm Brazilian, but I play Irish music and love trad Irish music sessions ☘️
