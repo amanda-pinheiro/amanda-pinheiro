@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanda-pinheiro
 - 👀 I’m interested in software quality assurance
-- 🌱 I’m currently learning about AI Assitants, MCP and QA Engineering
+- 🌱 I'm currently learning about AI Assistants, MCP and QA Engineering — pursuing CTFL certification and a postgraduate specialization in Software Quality Engineering at PUC Minas
 - 📫 How to reach me: amandajpinheiro2@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm Brazilian, but I play Irish Music and love trad irish music sessions ☘️
